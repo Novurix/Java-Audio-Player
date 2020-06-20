@@ -2,4 +2,4 @@
 Custom audio player
 
 # Warning
-this audio player will only play .wav files
+this audio player will only plays .wav files
